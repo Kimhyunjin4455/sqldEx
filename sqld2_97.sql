@@ -11,3 +11,8 @@ CREATE TABLE 동의항목 (
 );
 
 select * from 회원,동의항목;
+
+insert into 회원 values(1, '김현진');
+insert into 회원 values(2, '서예지');
+insert into 회원 values(3, '조승우');
+
