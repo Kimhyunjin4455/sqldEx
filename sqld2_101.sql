@@ -34,4 +34,3 @@ INSERT INTO 평가결과 VALUES ('200003',2,'3','1','20210506');
 INSERT INTO 평가결과 VALUES ('200003',3,'3','1+','20210508');
 INSERT INTO 평가대상상품 VALUES ('200001','횡성축협한우');
 INSERT INTO 평가대상상품 VALUES ('200002','문경약돌한우');
-INSERT INTO 평가대상상품 VALUES ('200003','무등골그린한우');
